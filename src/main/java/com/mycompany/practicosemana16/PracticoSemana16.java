@@ -45,7 +45,8 @@ public class PracticoSemana16 {
         } catch (Exception e) {
              System.out.println("tienes un error:"+ e );
         }
-           
-          
+           //Cierre de Archivos:
+          //la estructura try-with-resources, Cierra automáticamente los archivos
+          //una vez que termina el bloque try.
     }
 }
