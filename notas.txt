@@ -1,0 +1,7 @@
+Buen dia
+Este es el desarrollo de la practica experimental
+mi nombre es :Edison Navarrete
+carrera :Tecnologias de la informacion
+Mi edad es :23
+vivo en la ciudad de  Daule
+Esta actividad a sido desarrollada para la asignatura de fundamentos de programacion
